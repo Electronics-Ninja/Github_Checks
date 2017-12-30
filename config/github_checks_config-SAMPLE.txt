@@ -1,0 +1,10 @@
+[MongoDB]
+dbName: github
+dbServer: 127.0.0.1
+dbPort: 27017
+dbUser: githubUser
+dbPassword: your_db_password
+
+[github_api]
+ext_api: your_github.com_api
+int_api: your_gitub_enterprise_api

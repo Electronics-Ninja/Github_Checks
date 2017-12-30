@@ -1,0 +1,8 @@
+logs/github_regex_*
+config/github_checks_config.txt
+__pycache__/
+findings/findings*
+findings/All_Findings*
+findings/Workbook*
+.DS_Store
+*.pyc

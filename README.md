@@ -1,0 +1,3 @@
+Checks internal and external Github Repositories for sensitive information
+
+This was the initial push - need to clean up a bit before pushing out to the masses - just making sure I have it backed up somewhere...
